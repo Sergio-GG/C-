@@ -1,0 +1,15 @@
+D:\Geekbrains\Git\C#\EX001_hello\bin\Debug\net6.0\EX001_hello.exe
+D:\Geekbrains\Git\C#\EX001_hello\bin\Debug\net6.0\EX001_hello.deps.json
+D:\Geekbrains\Git\C#\EX001_hello\bin\Debug\net6.0\EX001_hello.runtimeconfig.json
+D:\Geekbrains\Git\C#\EX001_hello\bin\Debug\net6.0\EX001_hello.dll
+D:\Geekbrains\Git\C#\EX001_hello\bin\Debug\net6.0\EX001_hello.pdb
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\EX001_hello.csproj.AssemblyReference.cache
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\EX001_hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\EX001_hello.AssemblyInfoInputs.cache
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\EX001_hello.AssemblyInfo.cs
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\EX001_hello.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\EX001_hello.dll
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\refint\EX001_hello.dll
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\EX001_hello.pdb
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\EX001_hello.genruntimeconfig.cache
+D:\Geekbrains\Git\C#\EX001_hello\obj\Debug\net6.0\ref\EX001_hello.dll
